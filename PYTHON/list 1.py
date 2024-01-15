@@ -1,0 +1,12 @@
+l=["ab","cd","ef","gh","ij"]
+m=[l,l,l]
+n=[["ab","cd","ef","gh","ij"],["ab","cd","ef","gh","ij"],["ab","cd","ef","gh","ij"]]
+#print(l)
+#print(m)
+#print(n)
+print(l)
+print("\n\n\n\n")
+#l.pop()
+#l.reverse()
+l.remove(l[1])
+print(l)
